@@ -1,0 +1,20 @@
+.container{
+    color: orange;
+}
+.nav-link{
+ color: #dddddd;
+}
+.nav-link:hover{
+    color:orange;
+}
+.nav{
+    color: orange;
+}
+.caption{
+    color:orange;
+    top:0;
+    margin-top: 200px;
+}
+.btn{
+    width:80px;
+}
